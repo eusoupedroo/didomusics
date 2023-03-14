@@ -119,15 +119,4 @@ $artistProfilePicture =  $artist->getProfilePicture();
                 }
             ?>
     </div>
-
-
-
-
-
-
-
-
-
-
-
 </div>
